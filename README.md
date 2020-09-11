@@ -9,6 +9,8 @@ Using Jonny Kalambay (@jonnyk20)'s spotify-node-react-starter-kit repo.
 https://github.com/jonnyk20/spotify-node-react-starter-kit
 
 <h2> Installation </h2>
-1. Download repository
-2. Register App on Spotify (https://developer.spotify.com/documentation/general/guides/app-settings/)
-3. Fill in Client ID and Client Secret
+<ol>
+  <li> Download repository </li>
+  <li> Register App on Spotify (https://developer.spotify.com/documentation/general/guides/app-settings/) </li>
+  <li> Fill in Client ID and Client Secret </li>
+</ol>
